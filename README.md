@@ -1,7 +1,7 @@
 #    Primera Parte TP SPD
 ---
 
-![]([https://hackmd.io/_uploads/B172e8JWp.jpg](https://raw.githubusercontent.com/RodrigoERuiz/TP_SPD/main/Imagenes/imagen_para_portadamd.jpg))
+![][https://hackmd.io/_uploads/B172e8JWp.jpg](https://raw.githubusercontent.com/RodrigoERuiz/TP_SPD/main/Imagenes/imagen_para_portadamd.jpg)
 
 ---
 
