@@ -1,6 +1,6 @@
 #    Contador con dos displays de 7 segmentos
 
-![](https://raw.githubusercontent.com/RodrigoERuiz/TP_SPD/main/imagen_para_md.jpg))
+![](https://github.com/RodrigoERuiz/TP_SPD/blob/main/Imagenes/imagen_para_portadamd.jpg)
 
 ##    Integrantes
 * Enzo Jauregui
