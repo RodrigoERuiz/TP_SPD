@@ -1,7 +1,7 @@
 #    Primera Parte TP SPD
 ---
 
-![][https://hackmd.io/_uploads/B172e8JWp.jpg]
+![](https://hackmd.io/_uploads/B172e8JWp.jpg)
 
 ---
 
