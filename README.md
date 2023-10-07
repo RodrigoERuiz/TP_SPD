@@ -1,6 +1,6 @@
 #    Contador con dos displays de 7 segmentos
 
-![]([https://hackmd.io/_uploads/B172e8JWp.jpg](https://co.pinterest.com/pin/369787819389136519/))
+![]([[https://github.com/RodrigoERuiz/TP_SPD/blob/main/imagen_para_md.jpg))
 
 ##    Integrantes
 * Enzo Jauregui
