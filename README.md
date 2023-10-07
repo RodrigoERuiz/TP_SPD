@@ -13,7 +13,7 @@
 
 ---
 
-![](Imagenes/TP contador.png)
+![imagen_proyecto](Imagenes/TP contador.png)
 
 
 ---
