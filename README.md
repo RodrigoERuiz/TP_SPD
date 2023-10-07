@@ -13,7 +13,7 @@
 
 ---
 
-![imagen_proyecto](Imagenes/TP contador.png)
+![imagen_proyecto]([Imagenes/TP contador.png](https://github.com/RodrigoERuiz/TP_SPD/blob/a94451b3fbeb083b199499bdfdb875ac6644c112/Imagenes/TP%20contador.png)https://github.com/RodrigoERuiz/TP_SPD/blob/a94451b3fbeb083b199499bdfdb875ac6644c112/Imagenes/TP%20contador.png)
 
 
 ---
