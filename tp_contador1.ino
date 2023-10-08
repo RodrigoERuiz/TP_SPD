@@ -6,8 +6,8 @@
 #define f 9
 #define g 8
 
-#define DISPLAY_UNIDADES A1
-#define DISPLAY_DECENAS A0
+#define DISPLAY_UNIDADES A0
+#define DISPLAY_DECENAS A1
 
 #define PULSADOR_INCREMENTAR 5 // Pin del pulsador para aumentar el contador
 #define PULSADOR_DECREMENTAR 3 // Pin del pulsador para disminuir el contador
@@ -58,9 +58,9 @@ void loop() {
   ultimoEstadoDecrementar = estadoDecrementar;
   ultimoEstadoReiniciar = estadoReiniciar;
 
-  mostrarNumero(contador % 10, DISPLAY_DECENAS); // Para quedarme con la decena
+  mostrarNumero(contador % 10, DISPLAY_UNIDADES); // Para quedarme con la unidad
   delay(5); 
-  mostrarNumero(contador / 10, DISPLAY_UNIDADES); // Para quedarme con las unidades
+  mostrarNumero(contador / 10, DISPLAY_DECENAS); // Para quedarme con la decena
   delay(5); 
 }
 
@@ -186,5 +186,6 @@ void mostrarNumero(int numero, int display)
       break;
   }
 }
+
 
 
