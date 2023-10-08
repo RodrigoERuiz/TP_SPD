@@ -144,7 +144,7 @@ void mostrarNumero(int numero, int display)
 La función mostrarNumero() será llamada dos veces por cada vuelta del loop.
 Una vez recibiendo por parametro el display de las unidades y la otra el de las decenas.
 Si bien en ambos llamados la función recibirá el mismo contador. En el llamado de las unidades a ese contador se le aplica el operador modulo de diez para quedarse efectivamente con la unidad del digito a representar.
-Mientras que en el llamado de las decenas se le aplica una division por 10 para obtener la decena de la variable entera contador
+Mientras que en el llamado de las decenas se le aplica una division por 10 para obtener la decena de la variable entera contador.
 Tambien colocamos un delay muy breve de 5 ms entre cada uno de los dos llamadas para lograr el efecto de que ambos estan encendidos en simultaneo todo el tiempo
 
 ```csharp=
@@ -157,8 +157,4 @@ Tambien colocamos un delay muy breve de 5 ms entre cada uno de los dos llamadas 
 
 * [https://www.tinkercad.com/things/5PUNWxaVwLx?sharecode=y-O1K24IdR9kM4jSnnGmvMINvI--hCrdU6R03yajr2M]()
 
-## Fuentes
-
-* [www.arduino.cc/reference/es/]()
-* [https://markdown.es/](https://)
 
