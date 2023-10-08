@@ -22,7 +22,7 @@
 
 ##    Descripcion
 
-Nuestro proyecto es un contador con dos displays de 7 segmentos que ofrece una solución sencilla y efectiva para llevar un seguimiento numérico de eventos y conteos de hasta dos dígitos. Permite a los usuarios aumentar, disminuir y restablecer el contador de manera intuitiva, siendo útil en una variedad de aplicaciones, desde el control de inventario hasta juegos y marcadores.
+Nuestro proyecto es un contador con dos displays de 7 segmentos que ofrece una solución sencilla y efectiva para llevar un seguimiento numérico de eventos y conteos de hasta dos dígitos. Permite a los usuarios aumentar, disminuir y restablecer el contador de manera intuitiva, siendo útil en una variedad de aplicaciones, desde el control de ingreso a predios hasta marcadores de puntuación en eventos deportivos.
 
 ##    Función Principal
 Esta función recibe uno de los dos displays con los que cuenta el sistema  y un numero entero (que se tratara de varible contador cuando la funcion sea llamada en el loop principal)
