@@ -153,3 +153,7 @@ Tambien colocamos un delay muy breve de 5 ms entre cada uno de los dos llamadas 
   mostrarNumero(contador / 10, DISPLAY_DECENAS); // Para quedarme con la decena
   delay(5); 
 ```
+##    Link al proyecto
+
+[](https://https://www.tinkercad.com/things/5PUNWxaVwLx?sharecode=y-O1K24IdR9kM4jSnnGmvMINvI--hCrdU6R03yajr2M Proyecto)
+
