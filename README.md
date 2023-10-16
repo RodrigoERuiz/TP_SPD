@@ -156,7 +156,7 @@ Tambien colocamos un delay muy breve de 5 ms entre cada uno de los dos llamadas 
 
 ##    Link al proyecto
 
-* [Proyecto](https://www.tinkercad.com/things/5PUNWxaVwLx?sharecode=y-O1K24IdR9kM4jSnnGmvMINvI--hCrdU6R03yajr2M)
+* [Proyecto](https://www.tinkercad.com/things/6kChngbauJc)
 
 ##    Referencias
 * [Documentacion oficial Arduino](https://www.arduino.cc/reference/es/)
