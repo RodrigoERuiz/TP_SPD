@@ -13,7 +13,7 @@
 
 
 
-![imagen_proyecto](Imagenes/contador parte 3.png)
+![imagen_proyecto](Imagenes/TP contador parte 3.png)
 
 
 ##    Integrantes
