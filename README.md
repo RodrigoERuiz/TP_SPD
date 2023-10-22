@@ -13,7 +13,7 @@
 
 
 
-![imagen_proyecto](https://github.com/RodrigoERuiz/TP_SPD/blob/main/Imagenes/TP%20contador%20parte%203.png)
+![imagen_proyecto](Imagenes/contador parte 3.png)
 
 
 ##    Integrantes
