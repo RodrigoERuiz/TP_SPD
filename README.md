@@ -209,7 +209,9 @@ int controlarBotonIncremento(int estadoBotonActual,int ultimoEstadoBoton, bool m
 
 ##    Link al proyecto
 
-* [Proyecto en TinkerCAD](https://www.tinkercad.com/things/jGGSoJMYPpE?sharecode=Un-QczG93LEsTBqTcjV5HK3kDNdPSzT0n9gCBV5uKzE)
+* [Parte 1](https://www.tinkercad.com/things/5PUNWxaVwLx?sharecode=y-O1K24IdR9kM4jSnnGmvMINvI--hCrdU6R03yajr2M)
+* [Parte 2](https://www.tinkercad.com/things/6kChngbauJc?sharecode=tvWJyVCI9qx7PjzBYa9Ek3H9xD0vIFIfgqiVgmB8vQ0)
+* [Parte 3](https://www.tinkercad.com/things/jGGSoJMYPpE?sharecode=Un-QczG93LEsTBqTcjV5HK3kDNdPSzT0n9gCBV5uKzE)
 * [Repositorio GitHub](https://github.com/RodrigoERuiz/TP_SPD.git)
 
 ##    Referencias
